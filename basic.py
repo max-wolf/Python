@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+
 # 基本用法
 # a = input('请输入：')
 # b = int(a)
